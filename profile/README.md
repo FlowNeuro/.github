@@ -12,7 +12,7 @@ FlowNeuro is an open-source development organization maintaining the Flow media 
 Maintaining the application and adapting to API changes requires ongoing work. If you find the project useful, consider supporting its development.
 
 * [Open Collective](https://opencollective.com/flowneuro)
-* [Patreon] ([Link your other methods here](https://www.patreon.com/c/A_EDev))
+* [Patreon](https://www.patreon.com/c/A_EDev)
 
 **Prefer to send Crypto directly?**
 If you already use crypto, you can send it directly to my wallets below:
